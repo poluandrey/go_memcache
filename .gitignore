@@ -1,0 +1,4 @@
+/bin/
+/data/
+/memc-load
+.*.tsv.gz
